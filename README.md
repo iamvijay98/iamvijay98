@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif)]
+![MasterHead](https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif)
 <h1 align="center">Hi 👋, I'm Vijayaragavendran</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
