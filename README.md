@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NEXT JS**
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **React JS**
 
 - 📫 How to reach me **vijayaragavendran98@gmail.com**
 
